@@ -31,12 +31,8 @@ For Software:
 
 
 ### Implementation
-For Software:
-# Installation
-[commands]
+Upload the ipynb file on Google Colab and run each cell to execute. In the "trainer.train()" line, paste this API key: d56adb8099210ae546413d97f94997f4a0bb4530 and run the remaining cells  
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
@@ -82,9 +78,9 @@ For Hardware:
 
 
 ## Team Contributions
-- Fathima Afra A.M: [Specific contributions]
-- Noureen AC: [Specific contributions]
-- Rifana Sherin: [Specific contributions]
+- Fathima Afra A.M: Deployed the model, created User Interface
+- Noureen AC: Developed the main code
+- Rifana Sherin: Uploaded the files and modified the README section
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
