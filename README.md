@@ -57,8 +57,7 @@ https://app.eraser.io/workspace/0YOjV0jjk1W0IGLLpE4z?origin=share
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://youtu.be/HZqWRedtvls
 
 
 
