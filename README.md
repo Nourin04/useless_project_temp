@@ -13,7 +13,7 @@
 - Member 3: Rifana Sherin - Government Engineering College, Westhill
 
 ### Project Description
-[2-3 lines about what your project does]
+The AI-Based Travel Planner and Guide project generates personalized travel itineraries based on user preferences, such as destination, interests, and time frame. It uses the LLaMA 2 model to suggest activities, recommend sightseeing spots, and provide essential travel information. The interface, built with Gradio in Google Colab, allows users to interact easily and adjust their itinerary preferences. Additionally, it suggests a random fun activity to add an extra layer of excitement to the travel plans.
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -24,15 +24,11 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- Frameworks used: PyTorch
+- Libraries used: Transformers, Gradio, Accelerate, Bitsandbytes, Peft, Scikit learn, PyTorch
+- Tools used: Gooogle Colab
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -83,13 +79,12 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Fathima Afra A.M: [Specific contributions]
+- Noureen AC: [Specific contributions]
+- Rifana Sherin: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
