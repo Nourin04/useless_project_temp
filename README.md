@@ -4,13 +4,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Hustle Squad
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Fathima Afra A.M - Government Engineering College, Westhill
+- Member 2: Noureen AC - Government Engineering College, Westhill
+- Member 3: Rifana Sherin - Government Engineering College, Westhill
 
 ### Project Description
 [2-3 lines about what your project does]
