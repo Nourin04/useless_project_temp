@@ -45,7 +45,7 @@ UI
 ![Screenshot2] ![Screenshot (1340)](https://github.com/user-attachments/assets/8c7eae93-a0d5-4cfb-b36d-835705f90608)
 output
 
-![Screenshot3] ![Screenshot (1338)](https://github.com/user-attachments/assets/4961d792-1049-42a9-9422-fbbf743187b8)
+![Screenshot3] ![Screenshot (1336)](https://github.com/user-attachments/assets/7a8ace2d-1435-4a6a-9020-a4abc813bc7e)
 model deployment
 
 
