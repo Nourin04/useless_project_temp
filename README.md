@@ -39,7 +39,8 @@ Upload the ipynb file on Google Colab and run each cell to execute. In the "trai
 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]![Screenshot (1336)](https://github.com/user-attachments/assets/cb7d8d91-8459-47cb-875d-f8c4adacf73d)
+(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
