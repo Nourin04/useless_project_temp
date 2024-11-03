@@ -39,14 +39,15 @@ Upload the ipynb file on Google Colab and run each cell to execute. In the "trai
 
 
 # Screenshots (Add at least 3)
-![Screenshot1]![Screenshot (1336)](https://github.com/user-attachments/assets/cb7d8d91-8459-47cb-875d-f8c4adacf73d)
+![Screenshot1] ![Screenshot (1339)](https://github.com/user-attachments/assets/bd955fda-e17c-4317-bd15-2e272c982335)
 UI
 
-![Screenshot2]![Screenshot (1339)](https://github.com/user-attachments/assets/dfe1a033-1083-40a3-b23c-b88c26fcbaa7)
+![Screenshot2] ![Screenshot (1340)](https://github.com/user-attachments/assets/8c7eae93-a0d5-4cfb-b36d-835705f90608)
+
 example
 
-![Screenshot3]![Screenshot (1340)](https://github.com/user-attachments/assets/aa8632a9-fdf9-4357-852b-1d289182a895)
-output
+![Screenshot3] 
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
