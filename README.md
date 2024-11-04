@@ -35,7 +35,8 @@ For Software:
 
 
 ### Implementation
-Upload the ipynb file on Google Colab and run each cell to execute. In the "trainer.train()" line, paste the API key provided and run the remaining cells  
+Upload the ipynb file on Google Colab and run each cell to execute. In the "trainer.train()" line, paste the API key provided and run the remaining cells 
+colab file link: https://colab.research.google.com/drive/1k3mUwfXHSQ8XwRX1vVVEQYWWwlDhf6Ev
 
 
 # Screenshots (Add at least 3)
