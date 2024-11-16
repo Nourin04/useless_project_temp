@@ -5,6 +5,7 @@
 
 ## Basic Details
 ### Team Name: Hustle Squad
+Video link: https://youtu.be/HZqWRedtvls
 
 
 ### Team Members
